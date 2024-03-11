@@ -10,8 +10,8 @@ const config: Config = {
     extend: {
       colors: {
         "soft-primary": "#84D187",
+        "hard-primary": "#2C742F",
         primary: "#00B207",
-        "hard-primary": "2C742F",
         warning: "#FF8A00",
         danger: "#EA4B48",
       },
