@@ -1,3 +1,4 @@
+import Banner from "@/components/banner";
 import Features from "@/components/features";
 import Hero from "@/components/hero";
 import Populer from "@/components/populer";
@@ -10,6 +11,7 @@ export default function Home() {
       <Populer />
       <PopulerProducts />
       <Features />
+      <Banner />
     </section>
   );
 }
