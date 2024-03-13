@@ -1,3 +1,4 @@
+import Features from "@/components/features";
 import Hero from "@/components/hero";
 import Populer from "@/components/populer";
 import PopulerProducts from "@/components/populerProducts";
@@ -8,6 +9,7 @@ export default function Home() {
       <Hero />
       <Populer />
       <PopulerProducts />
+      <Features />
     </section>
   );
 }
